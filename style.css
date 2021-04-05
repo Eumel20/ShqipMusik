@@ -1,0 +1,80 @@
+#button1 { 
+    color: white;
+   display: inline-block;
+    font-size: 32px;
+    font-weight: bolder;
+    margin: 16px;
+    margin-left: 30px;
+}
+
+#button2 { 
+    color: white;
+   display: inline-block;
+    font-size: 32px;
+    font-weight: bolder;
+    margin: 16px;
+    margin-left: 30px;
+}
+
+#button3 { 
+    color: white;
+   display: inline-block;
+    font-size: 32px;
+    font-weight: bolder;
+    margin: 16px;
+    margin-left: 30px;
+}
+
+#button4 { 
+    color: white;
+   display: inline-block;
+    font-size: 32px;
+    font-weight: bolder;
+    margin: 16px;
+    margin-left: 30px;
+}
+
+#button5 { 
+    color: white;
+   display: inline-block;
+    font-size: 32px;
+    font-weight: bolder;
+    margin: 16px;
+    margin-left: 30px;
+}
+
+#button6 { 
+    color: white;
+   display: inline-block;
+    font-size: 32px;
+    font-weight: bolder;
+    margin: 16px;
+    margin-left: 30px;
+}
+
+
+
+#button1 a:hover {
+    color: red;
+}
+
+#button2 a:hover {
+    color: red;
+}
+
+#button3 a:hover {
+    color: red;
+}
+
+#button4 a:hover {
+    color: red;
+}
+
+#button5 a:hover {
+    color: red;
+}
+
+#button6 a:hover {
+    color: red;
+}
+
